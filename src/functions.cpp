@@ -47,6 +47,3 @@ void replace(int* a, const int size)
             a[i] = 0;
         }
 }
-
-
-

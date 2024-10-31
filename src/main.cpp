@@ -13,7 +13,7 @@ int main()
 
     cout << "\nCount : " << calculateCount(20) << endl;
     cout << "Sum : " << calculateSum(t, 20) << endl;
-    cout << "Відформатований масив :  ";
+    cout << "Відформатований  масив :  ";
     replace(t , 20);
     print(t , 20);
 
